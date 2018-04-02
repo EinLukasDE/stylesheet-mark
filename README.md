@@ -24,4 +24,4 @@ Next you can already use the mark.css.
 **A tutorial was written in the index.html, questions or concerns can be submitted in issues.**
    
 Usage without download <br>
-  https://raw.githubusercontent.com/EinLukasDE/stylesheet-mark/master/mark.css
+  https://cdn.rawgit.com/EinLukasDE/stylesheet-mark/master/mark.css
