@@ -1,9 +1,9 @@
 # stylesheet-mark
-Mark element for older browsers
+Mark element for older browsers,
 
 **How to use**
 
-First, the mark.css file must be included in the header.
+Mark element for older browsers, newer browsers can already read <mark> like this. Do not get older, the perfect solution is CSS.
   
   <pre>
   <code class="language-html">
