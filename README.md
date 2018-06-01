@@ -10,7 +10,7 @@ First, the mark.css file must be included in the header. <br>
   
 Next you can already use the mark.css. <br>
 <code class="language-html">
-  &lt;p class="mark"&gt;Example textlt;/p&gt;
+  &lt;p class="mark"&gt;Example text&lt;/p&gt;
   </code>
   
   <br>
